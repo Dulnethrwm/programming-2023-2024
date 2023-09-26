@@ -26,3 +26,21 @@ It will wit for the user to type something on and press Enter / Return.
 ```python
 input()
 ```
+
+# Variables
+Variables allow us yo store information for the time our app is running.
+```python
+favourite food = input ("What is your favourite food? ")
+```
+favourite_food -> name of the variable
+= -> assignment operator
+input... -> value 
+
+# [[Strings]]
+
+# [[Design]]
+
+# [[Lists]]
+
+# [[Modules]]
+
