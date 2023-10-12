@@ -20,3 +20,4 @@ The problem with the code above is subtle. What I (Mr. Ubial) mean is that EVERY
 One way to solve this problem is to use [[Strings#String Methodsjstringmethods]].
 We can use .lower() to fix this error.
 
+
