@@ -63,4 +63,20 @@ for _ in range(10):
 
 for i in range(5):
     print(i)
-    
+
+# Can we start at another number?
+for i in range(1, 100):
+    print(i)
+
+    # Can wwe count by any otrher number
+    for i in range(0, 101, 7):
+        print(i)
+
+# 1. Print all even numbers between 1200 and 1500 inclusive.
+# Use a for loop.
+for i in range(1200, 1500, 2):
+    print(i)
+
+# 2. Print all odd numbers between -150 and 0 inclusively.
+for i in range(-149, 0, 2):
+    print(i)
