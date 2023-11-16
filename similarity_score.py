@@ -15,7 +15,7 @@ ubials_fave_movies = [
 bens_fave_movies = [
     "thomas and friends, big world big adventure", 
     "paddington 2",
-    "avengers:infinity war",
+    "avengers: infinity war",
     "minions",
     "rogue one"
 ]
