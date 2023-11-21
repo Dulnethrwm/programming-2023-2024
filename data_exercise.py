@@ -47,11 +47,10 @@ with open("./data_example.csv", encoding="utf-8") as f:
 # Give yourself a pat on the back.
 # See if you can count how many people like "Chicken Adobo" as their
 # favourite food.
-no_of_likes = 0
-item = ["Chicken Adobo"]
 with open("./data_example.csv", encoding="utf-8") as f:
-    for item in f:
-            if item in f:
+    no_of_likes = 0
+    item= ["Chicken Adobo" ]
+    if item in f:
                 no_of_likes += 1
 print(f"{no_of_likes} people like chicken adobo.")
 
