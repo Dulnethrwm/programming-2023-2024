@@ -10,5 +10,5 @@ country_capitals = {
   "England": "London"
 }
 
-# printing the dictionary
+
 print(country_capitals)
